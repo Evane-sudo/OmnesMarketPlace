@@ -7,7 +7,7 @@ Ce projet avait pour objectif de concevoir et développer une **plateforme e-com
 ---
 
 ## 👥 Équipe de projet
-Projet réalisé en groupe d’étudiants de 4 étudiants de l'ECE :
+Projet réalisé en groupe d’étudiants de 4 étudiants de l'ECE
 
 Encadré dans le cadre du cours de **Développement Web Dynamique** (PHP / MySQL / HTML / CSS / JS).
 
