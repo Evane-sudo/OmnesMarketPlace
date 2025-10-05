@@ -77,7 +77,6 @@ C:\xampp\htdocs\OmnesMarketPlace\
 
 | Rôle | Email | Mot de passe |
 |------|--------|--------------|
-| 👑 Administrateur | `admin@omnes.fr` | `admin123` |
 | 🧑‍💼 Vendeur | `vendeur@omnes.fr` | `vendeur123` |
 | 👩‍🛒 Acheteur | `acheteur@omnes.fr` | `acheteur123` |
 
