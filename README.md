@@ -32,7 +32,6 @@ Encadré dans le cadre du cours de **Développement Web Dynamique** (PHP / MySQL
 | 💬 **Négociation vendeur-client** | Jusqu’à 5 tours de propositions/contre-propositions |
 | ⚖️ **Enchères (meilleure offre)** | Système d’enchères automatiques avec enchère max |
 | 🛍️ **Panier et paiement** | Gestion de panier + paiement simulé via carte de test |
-| 🧑‍💼 **Espace Admin** | Gestion des vendeurs et des articles |
 | 🧾 **Espace Vendeur** | CRUD produits + suivi des négociations |
 | 👩‍💻 **Espace Acheteur** | Consultation, négociation, enchères et panier |
 | 🔒 **Connexion sécurisée** | Authentification + hachage des mots de passe |
