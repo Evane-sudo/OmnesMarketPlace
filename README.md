@@ -31,7 +31,7 @@ Encadré dans le cadre du cours de **Développement Web Dynamique** (PHP / MySQL
 
 | Fonctionnalité | Description |
 |----------------|-------------|
-| 👥 **Multi-rôles** | 3 profils : **Administrateur**, **Vendeur**, **Acheteur** |
+| 👥 **Multi-rôles** | 2 profils : **Vendeur**, **Acheteur** |
 | 💳 **Achat immédiat** | Achat direct d’un produit au prix affiché |
 | 💬 **Négociation vendeur-client** | Jusqu’à 5 tours de propositions/contre-propositions |
 | ⚖️ **Enchères (meilleure offre)** | Système d’enchères automatiques avec enchère max |
